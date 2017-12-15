@@ -1,0 +1,2 @@
+webpackJsonp([0],{"4ZiJ":function(e,n,t){"use strict";var l=function(){var e=this,n=e.$createElement;return(e._self._c||n)("h1",[e._v("Hello World")])},r=[],u={render:l,staticRenderFns:r};n.a=u},zmsi:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l=t("4ZiJ"),r=t("VU/8"),u=r(null,l.a,!1,null,null,null);n.default=u.exports}});
+//# sourceMappingURL=index.5dd7f0fd1e99adde139a.js.map
